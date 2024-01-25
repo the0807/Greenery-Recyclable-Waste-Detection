@@ -2,7 +2,7 @@ task: detect
 mode: train
 model: yolov8n.pt
 data: /home/students/cs/greenery/datas/data.yaml
-epochs: 1000
+epochs: 100
 time: null
 patience: 50
 batch: 32
