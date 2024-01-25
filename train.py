@@ -5,9 +5,10 @@ model = YOLO('yolov8n.pt')
 
 # Training
 results = model.train(
-   data='/home/students/cs/greenery/datas/data.yaml',
+   data='/home/students/cs/greenery/prep_datas/data.yaml',
    imgsz=640,
-   epochs=100,
+   epochs=1000,
    batch=32,
+   device=[0,1],
    project='/home/students/cs/greenery/yolov8/separate_model'
 )
