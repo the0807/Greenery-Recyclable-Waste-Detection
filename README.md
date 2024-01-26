@@ -12,7 +12,7 @@ recyclable waste detection using YOLOv8
 
 ## Environment
 <div style="display:flex; flex-direction:row;">
-  GPU: Nvidia Quadro RTX 5000
+  GPU: Nvidia Quadro RTX 5000 X 2
 </div>
 <div style="display:flex; flex-direction:row;">
   Ubuntu 20.04
@@ -29,7 +29,7 @@ recyclable waste detection using YOLOv8
   epoch: 500
 </div>
 <div style="display:flex; flex-direction:row;">
-  batch: 32
+  batch: 48
 </div>
 <div style="display:flex; flex-direction:row;">
   use the default for others
