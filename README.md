@@ -1,7 +1,7 @@
 # Greenery_Recyclable_Waste_Detection
 recyclable waste detection using YOLOv8
 <br>
-[Greenery](https://github.com/bkk21/Greenery)의 Computer Vision Part
+More info about project: [Greenery](https://github.com/bkk21/Greenery)
 
 ## Dataset
 <div style="display:flex; flex-direction:row;">
