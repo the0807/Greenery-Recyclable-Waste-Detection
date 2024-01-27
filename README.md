@@ -36,5 +36,5 @@ recyclable waste detection using YOLOv8
 </div>
 
 ## Result
-
-
+![페트병](https://github.com/the0807/Greenery-Recyclable-Waste-Detection/assets/73097985/7b3a91bf-c7ae-49e8-850f-40b1773b4730)
+![음료수캔](https://github.com/the0807/Greenery-Recyclable-Waste-Detection/assets/73097985/92cc502e-44be-4d31-92e9-2c93a333e51c)
