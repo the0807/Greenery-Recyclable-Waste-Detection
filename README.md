@@ -28,10 +28,10 @@ More info about project: [Greenery](https://github.com/bkk21/Greenery)
 
 ## Train
 <div style="display:flex; flex-direction:row;">
-  epoch: 500
+  epoch: 350
 </div>
 <div style="display:flex; flex-direction:row;">
-  batch: 48
+  batch: 64
 </div>
 <div style="display:flex; flex-direction:row;">
   use the default for others
