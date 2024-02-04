@@ -1,4 +1,4 @@
 /datasets
 /yolov8n.pt
 separate_model/train/weights/*
-separate_model/train_log
+separate_model/train_log*
