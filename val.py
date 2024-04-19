@@ -4,7 +4,7 @@ from ultralytics import YOLO
 model = YOLO('/home/students/cs/greenery/yolov8/separate_model/train/weights/best.pt')
 
 # Customize validation settings
-validation_results = model.val(data='/HDD/greenery/datasets/data.yaml',
+validation_results = model.val(data='/home/students/cs/greenery/datasets/data.yaml',
                                imgsz=640,
                                batch=16,
                                conf=0.25,
