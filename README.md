@@ -14,21 +14,21 @@ More info about project: [Greenery](https://github.com/bkk21/Greenery)
 
 ## Environment
 <div style="display:flex; flex-direction:row;">
-  GPU: Nvidia Quadro RTX 5000 X 2
+  GPU: Nvidia Quadro RTX 5000
 </div>
 <div style="display:flex; flex-direction:row;">
   Ubuntu 20.04
 </div>
 <div style="display:flex; flex-direction:row;">
-  CUDA 11.6
+  CUDA 12.1
 </div>
 <div style="display:flex; flex-direction:row;">
-  PyTorch 1.13.1
+  PyTorch 2.1
 </div>
 
 ## Train
 <div style="display:flex; flex-direction:row;">
-  epoch: 350
+  epoch: 300
 </div>
 <div style="display:flex; flex-direction:row;">
   batch: 64
